@@ -10,3 +10,5 @@ __Thành viên nhóm thực tế tham gia:__
 - Lê Minh Hoàng - MSSV: 24520542
 
 __Giảng viên hướng dẫn:__ PGS. TS. Ngô Đức Thành
+
+__Link video demo:__ https://drive.google.com/file/d/1SWGgnNfSkRXJKCpkSeg8IMquCVJk6wlf/view?usp=drive_link
